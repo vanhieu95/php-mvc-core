@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace VanHieu\PhpMvcCore;
 
 abstract class Model
 {

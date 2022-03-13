@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace VanHieu\PhpMvcCore\db;
 
-use app\core\Application;
+use VanHieu\PhpMvcCore\Application;
 use PDO;
 
 class Database

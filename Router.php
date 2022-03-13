@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace VanHieu\PhpMvcCore;
 
-use app\core\exception\NotFoundException;
+use VanHieu\PhpMvcCore\exception\NotFoundException;
 
 class Router
 {

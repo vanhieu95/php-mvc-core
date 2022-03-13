@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace VanHieu\PhpMvcCore;
 
-use app\core\db\ActiveRecord;
-use app\core\db\Database;
+use VanHieu\PhpMvcCore\db\ActiveRecord;
+use VanHieu\PhpMvcCore\db\Database;
 use Exception;
 
 class Application

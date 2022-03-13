@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace VanHieu\PhpMvcCore\db;
 
-use app\core\Model;
+use VanHieu\PhpMvcCore\Model;
 
 abstract class ActiveRecord extends Model
 {

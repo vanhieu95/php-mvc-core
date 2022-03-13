@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace VanHieu\PhpMvcCore\form;
 
-use app\core\Model;
+use VanHieu\PhpMvcCore\Model;
 
 class Form
 {

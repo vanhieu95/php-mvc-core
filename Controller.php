@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace VanHieu\PhpMvcCore;
 
-use app\core\middlewares\BaseMiddleware;
+use VanHieu\PhpMvcCore\middlewares\BaseMiddleware;
 
 class Controller
 {

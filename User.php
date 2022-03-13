@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace VanHieu\PhpMvcCore;
 
-use app\core\db\ActiveRecord;
+use VanHieu\PhpMvcCore\db\ActiveRecord;
 
 abstract class User extends ActiveRecord
 {
