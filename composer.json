@@ -1,0 +1,15 @@
+{
+  "name": "van-hieu/php-mvc-core",
+  "autoload": {
+    "psr-4": {
+      "VanHieu\\PhpMvcCore\\": "."
+    }
+  },
+  "authors": [
+    {
+      "name": "vanhieu95",
+      "email": "nguyenluongtrunghieu1995@gmail.com"
+    }
+  ],
+  "require": {}
+}
